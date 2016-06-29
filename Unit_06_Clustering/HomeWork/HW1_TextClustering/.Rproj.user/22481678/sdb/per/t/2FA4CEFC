@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1464108118809.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2FA4CEFC",
+    "lastKnownWriteTime" : 578055781,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "gpkps1c8lt",
+        "caption" : "daily[1:10, ]",
+        "contentUrl" : "grid_resource/gridviewer.html?env=_rs_no_env&obj=&cache_key=gpkps1c8lt",
+        "displayedObservations" : 10,
+        "environment" : "_rs_no_env",
+        "object" : "",
+        "totalObservations" : 10,
+        "variables" : 1545
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

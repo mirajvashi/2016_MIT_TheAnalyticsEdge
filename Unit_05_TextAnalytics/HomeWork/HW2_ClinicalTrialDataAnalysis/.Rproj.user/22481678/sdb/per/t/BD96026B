@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1463823631627.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BD96026B",
+    "lastKnownWriteTime" : 1702323561,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "pu9toyz4w6",
+        "caption" : "dtm",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=dtm&cache_key=pu9toyz4w6",
+        "displayedObservations" : 1860,
+        "environment" : "",
+        "object" : "dtm",
+        "totalObservations" : 1860,
+        "variables" : 367
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

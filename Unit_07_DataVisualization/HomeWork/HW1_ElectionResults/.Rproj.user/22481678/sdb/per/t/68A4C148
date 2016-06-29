@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1464541503117.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "68A4C148",
+    "lastKnownWriteTime" : 578055781,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "0elaqg5eh3",
+        "caption" : "statesMap",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=statesMap&cache_key=0elaqg5eh3",
+        "displayedObservations" : 15537,
+        "environment" : "",
+        "object" : "statesMap",
+        "totalObservations" : 15537,
+        "variables" : 6
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

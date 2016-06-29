@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1463743203477.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CC50ECB5",
+    "lastKnownWriteTime" : 578055781,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "dzqlbe4ddh",
+        "caption" : "wordsAdded",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=wordsAdded&cache_key=dzqlbe4ddh",
+        "displayedObservations" : 3876,
+        "environment" : "",
+        "object" : "wordsAdded",
+        "totalObservations" : 3876,
+        "variables" : 166
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

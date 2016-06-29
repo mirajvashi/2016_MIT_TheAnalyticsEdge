@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1463744472801.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "87FF5BF2",
+    "lastKnownWriteTime" : 578055781,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "azb36fh26i",
+        "caption" : "wikiTrain",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=wikiTrain&cache_key=azb36fh26i",
+        "displayedObservations" : 2713,
+        "environment" : "",
+        "object" : "wikiTrain",
+        "totalObservations" : 2713,
+        "variables" : 329
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1463761847811.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CDF201D7",
+    "lastKnownWriteTime" : 578055781,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "2g6adpueik",
+        "caption" : "wikiWords2",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=wikiWords2&cache_key=2g6adpueik",
+        "displayedObservations" : 3876,
+        "environment" : "",
+        "object" : "wikiWords2",
+        "totalObservations" : 3876,
+        "variables" : 330
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1464083971308.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BEBCEB55",
+    "lastKnownWriteTime" : 774905906,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "bpe7ry6ua2",
+        "caption" : "flower",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=flower&cache_key=bpe7ry6ua2",
+        "displayedObservations" : "50",
+        "environment" : "",
+        "object" : "flower",
+        "totalObservations" : "50",
+        "variables" : "50"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
