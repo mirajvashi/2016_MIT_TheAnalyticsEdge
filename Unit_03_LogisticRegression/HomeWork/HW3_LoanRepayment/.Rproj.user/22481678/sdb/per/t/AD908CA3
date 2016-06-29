@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1462284743925.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AD908CA3",
+    "lastKnownWriteTime" : 1702323561,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "nr2ulmoalg",
+        "caption" : "loans",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=loans&cache_key=nr2ulmoalg",
+        "displayedObservations" : "9578",
+        "environment" : "",
+        "object" : "loans",
+        "totalObservations" : "9578",
+        "variables" : "14"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

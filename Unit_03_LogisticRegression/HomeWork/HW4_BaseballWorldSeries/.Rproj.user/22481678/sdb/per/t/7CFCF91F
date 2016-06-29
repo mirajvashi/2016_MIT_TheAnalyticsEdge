@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1462299004417.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7CFCF91F",
+    "lastKnownWriteTime" : 578055781,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "5n0xkooqr3",
+        "caption" : "baseball",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=baseball&cache_key=5n0xkooqr3",
+        "displayedObservations" : 244,
+        "environment" : "",
+        "object" : "baseball",
+        "totalObservations" : 244,
+        "variables" : 16
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

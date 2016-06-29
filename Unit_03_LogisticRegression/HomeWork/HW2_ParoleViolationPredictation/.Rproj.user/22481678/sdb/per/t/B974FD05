@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1462274364321.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B974FD05",
+    "lastKnownWriteTime" : 1852383290,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "080bywx34o",
+        "caption" : "parole",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=parole&cache_key=080bywx34o",
+        "displayedObservations" : 675,
+        "environment" : "",
+        "object" : "parole",
+        "totalObservations" : 675,
+        "variables" : 9
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

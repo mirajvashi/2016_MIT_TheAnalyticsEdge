@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1462276076593.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "136AA22E",
+    "lastKnownWriteTime" : 1702323561,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "npgwgij73b",
+        "caption" : "train",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=train&cache_key=npgwgij73b",
+        "displayedObservations" : 473,
+        "environment" : "",
+        "object" : "train",
+        "totalObservations" : 473,
+        "variables" : 9
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,9 @@
+{
+    "path" : "~/AnalyticsEdge/Week 3/HomeWork/HW1_MusicTop10Prediction",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

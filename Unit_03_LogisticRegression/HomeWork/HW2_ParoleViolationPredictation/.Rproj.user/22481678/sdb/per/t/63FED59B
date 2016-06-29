@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1462278098619.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "63FED59B",
+    "lastKnownWriteTime" : 1702323561,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "jeywl60mk7",
+        "caption" : "test",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=test&cache_key=jeywl60mk7",
+        "displayedObservations" : 202,
+        "environment" : "",
+        "object" : "test",
+        "totalObservations" : 202,
+        "variables" : 9
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
