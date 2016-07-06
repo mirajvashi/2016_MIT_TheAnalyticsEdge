@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1467180699371.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F41C29D",
+    "lastKnownWriteTime" : 6,
+    "last_content_update" : -2147483648,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "ozn4bmadvo",
+        "caption" : "dfTemp2",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=dfTemp2&cache_key=ozn4bmadvo",
+        "displayedObservations" : 699,
+        "environment" : "",
+        "object" : "dfTemp2",
+        "totalObservations" : 699,
+        "variables" : 28
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

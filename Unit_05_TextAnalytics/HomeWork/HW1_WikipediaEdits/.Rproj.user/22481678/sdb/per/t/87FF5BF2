@@ -1,4 +1,5 @@
 {
+    "collab_server" : "",
     "contents" : "",
     "created" : 1463744472801.000,
     "dirty" : false,
@@ -7,6 +8,7 @@
     "hash" : "0",
     "id" : "87FF5BF2",
     "lastKnownWriteTime" : 578055781,
+    "last_content_update" : 0,
     "path" : null,
     "project_path" : null,
     "properties" : {
@@ -21,5 +23,6 @@
     },
     "relative_order" : 2,
     "source_on_save" : false,
+    "source_window" : "",
     "type" : "r_dataframe"
 }
